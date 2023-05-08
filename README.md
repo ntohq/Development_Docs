@@ -1,2 +1,2 @@
 # Development_Docs
-ntohq documentation, guidelines, and standard project file
+ntohq documentation, guidelines, SDLC, and standards.
